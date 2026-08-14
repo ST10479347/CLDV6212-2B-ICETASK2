@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|c:\\users\\emeris\\source\\repos\\azurefunctionapp_icetask2\\azurefunctionapp_icetask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|solutionrelative:azurefunctionapp_icetask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|c:\\users\\emeris\\source\\repos\\azurefunctionapp_icetask2\\azurefunctionapp_icetask2\\azurefunctionapp_icetask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|solutionrelative:azurefunctionapp_icetask2\\azurefunctionapp_icetask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|NewFolder1{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\GetUserFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|NewFolder1{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|solutionrelative:GetUserFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|c:\\users\\emeris\\source\\repos\\azurefunctionapp_icetask2\\azurefunctionapp_icetask2\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|solutionrelative:azurefunctionapp_icetask2\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|c:\\users\\emeris\\source\\repos\\azurefunctionapp_icetask2\\azurefunctionapp_icetask2\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|solutionrelative:azurefunctionapp_icetask2\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2BD011-0A79-4CE3-8DCA-3A8379E471D8}|NewFolder1{7B2BD011-0A79-4CE3-8DCA-3A8379E471D8}|C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2BD011-0A79-4CE3-8DCA-3A8379E471D8}|NewFolder1{7B2BD011-0A79-4CE3-8DCA-3A8379E471D8}|solutionrelative:UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2BD011-0A79-4CE3-8DCA-3A8379E471D8}|NewFolder1{7B2BD011-0A79-4CE3-8DCA-3A8379E471D8}|C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2BD011-0A79-4CE3-8DCA-3A8379E471D8}|NewFolder1{7B2BD011-0A79-4CE3-8DCA-3A8379E471D8}|solutionrelative:UserEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|NewFolder1{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\CreateUserFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|NewFolder1{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|solutionrelative:CreateUserFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|NewFolder1{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\GetAllUserFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|NewFolder1{3EEE666E-FA74-45AF-9A4D-1B428CF734F4}|solutionrelative:GetAllUserFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F9BE95-7F2B-478F-A69A-35AF71E6308C}|NewFolder1{B8F9BE95-7F2B-478F-A69A-35AF71E6308C}|C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserFunctions.postman_collection.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8F9BE95-7F2B-478F-A69A-35AF71E6308C}|NewFolder1{B8F9BE95-7F2B-478F-A69A-35AF71E6308C}|solutionrelative:UserFunctions.postman_collection.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|c:\\users\\emeris\\source\\repos\\azurefunctionapp_icetask2\\azurefunctionapp_icetask2\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{202CA79A-1B34-4ECE-B39A-AB9A58802AF8}|AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj|solutionrelative:azurefunctionapp_icetask2\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetUserFunction.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\GetUserFunction.cs",
+              "RelativeDocumentMoniker": "GetUserFunction.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\GetUserFunction.cs",
+              "RelativeToolTip": "GetUserFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:09:52.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\Program.cs",
+              "RelativeDocumentMoniker": "AzureFunctionApp_IceTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\Program.cs*",
+              "RelativeToolTip": "AzureFunctionApp_IceTask2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:04:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserEntity.cs",
+              "RelativeDocumentMoniker": "UserEntity.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserEntity.cs",
+              "RelativeToolTip": "UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:04:15.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserDto.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserDto.cs",
+              "RelativeToolTip": "UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:06:24.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\local.settings.json",
+              "RelativeDocumentMoniker": "AzureFunctionApp_IceTask2\\local.settings.json",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\local.settings.json",
+              "RelativeToolTip": "AzureFunctionApp_IceTask2\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-14T19:05:24.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureFunctionApp_IceTask2",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj",
+              "RelativeDocumentMoniker": "AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj",
+              "RelativeToolTip": "AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-14T19:03:32.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\Function.cs",
+              "RelativeDocumentMoniker": "AzureFunctionApp_IceTask2\\Function.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\Function.cs",
+              "RelativeToolTip": "AzureFunctionApp_IceTask2\\Function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:01:40.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserFunction.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\CreateUserFunction.cs",
+              "RelativeDocumentMoniker": "CreateUserFunction.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\CreateUserFunction.cs",
+              "RelativeToolTip": "CreateUserFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:08:57.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllUserFunction.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\GetAllUserFunction.cs",
+              "RelativeDocumentMoniker": "GetAllUserFunction.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\GetAllUserFunction.cs",
+              "RelativeToolTip": "GetAllUserFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T19:14:26.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserFunctions.postman_collection.json",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserFunctions.postman_collection.json",
+              "RelativeDocumentMoniker": "UserFunctions.postman_collection.json",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\UserFunctions.postman_collection.json",
+              "RelativeToolTip": "UserFunctions.postman_collection.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-14T19:15:59.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\host.json",
+              "RelativeDocumentMoniker": "AzureFunctionApp_IceTask2\\host.json",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\AzureFunctionApp_IceTask2\\AzureFunctionApp_IceTask2\\host.json",
+              "RelativeToolTip": "AzureFunctionApp_IceTask2\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-14T19:05:05.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

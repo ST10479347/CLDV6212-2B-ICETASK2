@@ -1,0 +1,67 @@
+{
+	"info": {
+		"name": "AzureFunctionUserApp - User Table Storage Functions",
+		"description": "Tests the CreateUser, GetUser, and GetAllUsers HTTP-triggered Azure Functions.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:7071"
+		},
+		{
+			"key": "userId",
+			"value": "A1001"
+		}
+	],
+	"item": [
+		{
+			"name": "1. Create User",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"userId\": \"{{userId}}\",\n  \"name\": \"Asavela\",\n  \"surname\": \"Bitterhout\",\n  \"email\": \"asavela.b@example.com\",\n  \"contactNumber\": \"0769856895\"\n}"
+				},
+				"url": {
+					"raw": "{{baseUrl}}/api/users",
+					"host": [ "{{baseUrl}}" ],
+					"path": [ "api", "users" ]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2. Get User By Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/api/users/{{userId}}",
+					"host": [ "{{baseUrl}}" ],
+					"path": [ "api", "users", "{{userId}}" ]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3. Get All Users",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/api/users",
+					"host": [ "{{baseUrl}}" ],
+					"path": [ "api", "users" ]
+				}
+			},
+			"response": []
+		}
+	]
+}

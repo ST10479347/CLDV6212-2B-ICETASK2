@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/functions/">
+    <File Path="AzureFunctionApp_IceTask2/Function.cs" />
+    <File Path="CreateUserFunction.cs" />
+    <File Path="GetAllUserFunction.cs" />
+    <File Path="GetUserFunction.cs" />
+  </Folder>
+  <Folder Name="/models/">
+    <File Path="UserDto.cs" />
+    <File Path="UserEntity.cs" />
+  </Folder>
+  <Folder Name="/postman/">
+    <File Path="UserFunctions.postman_collection.json" />
+  </Folder>
+  <Project Path="AzureFunctionApp_IceTask2/AzureFunctionApp_IceTask2.csproj" />
+</Solution>

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureFunctionApp_IceTask2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7173",
+      "launchBrowser": false
+    }
+  }
+}
